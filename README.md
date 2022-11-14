@@ -6,8 +6,9 @@
 - 📫 How to reach me ...
 --->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header">
+  <p align="left"> Hi, I’m Puja Goyal, Worked as a Java Developer Intern at Wipro Limited</p>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ### Connect with me :smiley:
