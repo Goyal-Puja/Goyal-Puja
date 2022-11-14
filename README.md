@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Puja Goyal. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="header">
