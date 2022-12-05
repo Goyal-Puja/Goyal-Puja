@@ -40,7 +40,7 @@
 <img align="left" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goyal-puja&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
 <br/>
-
+<br/><br/>
 ### [Stats card](https://github.com/Goyal-Puja/github-readme-stats) - [Goyal-Puja](https://github.com/Goyal-Puja/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goyal-Puja)](https://github.com/Goyal-Puja/github-readme-stats)
 <br />
