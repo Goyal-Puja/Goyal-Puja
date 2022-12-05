@@ -39,8 +39,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goyal-Puja)](https://github.com/Goyal-Puja/github-readme-stats)
 <br />
 
-### [GitHub Stats Visualization](https://github.com/Goyal-Puja/github-stats) - [Goyal-Puja](https://github.com/Goyal-Puja)
-<a href="https://github.com/Goyal-Puja/github-stats">
+
 <!---
 Goyal-Puja/Goyal-Puja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
