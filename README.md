@@ -14,12 +14,12 @@
 </div>
 
 ### Connect with me :smiley:
+
 <a href="https://www.linkedin.com/in/puja-goyal-216535173/">
   <img align="left" alt="puja goyal Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://twitter.com/PujaGoy33821955">
   <img align="left" alt="puja goyal Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-  
 </a>
 
 <br/>
@@ -32,7 +32,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
 
 <br />
 
