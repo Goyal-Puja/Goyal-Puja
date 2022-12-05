@@ -39,7 +39,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goyal-Puja)](https://github.com/Goyal-Puja/github-readme-stats)
 <br />
 
-### [simple profile generator](https://github.com/Goyal-Puja/github-profile-readme-generator) - [arturssmirnovs](https://github.com/Goyal-Puja/)
+### [simple profile generator](https://github.com/Goyal-Puja/github-profile-readme-generator) - [Goyal-Puja](https://github.com/Goyal-Puja/)
 ![Github readme generator](https://Goyal-Puja.github.io/github-profile-readme-generator/images/gif.gif?v=123)
 
 <!---
