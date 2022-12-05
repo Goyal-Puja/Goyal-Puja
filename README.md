@@ -34,10 +34,11 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br />
+
 ### Languages used in my public repos:
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goyal-puja&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
+
+<img align="left" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goyal-puja&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
 <br/>
 
 ### [Stats card](https://github.com/Goyal-Puja/github-readme-stats) - [Goyal-Puja](https://github.com/Goyal-Puja/)
