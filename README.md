@@ -39,6 +39,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goyal-Puja)](https://github.com/Goyal-Puja/github-readme-stats)
 <br />
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goyal-puja&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 
 <!---
 Goyal-Puja/Goyal-Puja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
