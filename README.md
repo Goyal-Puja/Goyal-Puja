@@ -20,8 +20,10 @@
 <a href="https://twitter.com/PujaGoy33821955">
   <img align="left" alt="puja goyal Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
   
-  [<img align="left" alt="mailto://goyalpuja48@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto://goyalpuja48@gmail.com)
+<img align="left" alt="mailto://goyalpuja48@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto://goyalpuja48@gmail.com)
 </a>
+
+![Snake animation](https://github.com/Goyal-Puja/Goyal-Puja/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Goyal-Puja/Goyal-Puja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
