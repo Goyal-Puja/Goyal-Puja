@@ -23,7 +23,7 @@
 <img align="left" alt="mailto://goyalpuja48@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto://goyalpuja48@gmail.com)
 </a>
 
-![Snake animation](https://github.com/Goyal-Puja/Goyal-Puja/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Goyal-Puja/Goyal-Puja/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Goyal-Puja/Goyal-Puja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
