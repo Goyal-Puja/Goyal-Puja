@@ -8,7 +8,7 @@
 
 <h2> Hi, I'm Puja Goyal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <div id="header">
-  <p align="left">Full Stack Developer at Easyops Technologies</p>
+  <p align="left">Full Stack Developer</p>
   
 </div>
 
